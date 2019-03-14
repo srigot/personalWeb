@@ -1,2 +1,2 @@
 # Site web Personnel (CV)
-Personal Website : http://sebastien.rigot.pw
+Personal Website : https://sebastien.rigot.dev
